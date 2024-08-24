@@ -1,0 +1,15 @@
+body {
+    background-color:#8B9D77;
+    color:#E7EAEF;
+    font-family:monospace; 
+    font-size:20px
+}
+h1 {text-align:center;
+}
+
+p {text-align:center;}
+.img1 {width:140px; height:140px;
+text-align:left;}
+.img2 {width:500px; height:250px;
+margin-left: 400px;}
+.p1 {text-align:left;}
